@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nightxcl0ud or Emaan!
+- 👋 Hi, I’m @Ewparson or Emaan!
 - 👀 I’m interested in Video games Anime AI Architecture and deep learning
 - 🌱 I’m currently learning Nvidia Ai Work Bench
 - 💞️ I’m looking to collaborate on generative Ai in video games and robotics to help with task and npc naritive and world immersion.
